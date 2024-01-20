@@ -148,6 +148,10 @@
     position: relative;
 }
 
+.header .bottom .right .image {
+    background-color: #B1DFDC;
+}
+
 
 .header .bottom .right .img p {
     font-weight: bold;
